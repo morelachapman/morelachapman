@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morelachapman
 - 👀 I’m interested in electrical engineering
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently not learning 
 - 💞️ I’m looking to collaborate on anything
 - ⚡ Fun fact: I have a cat named Cat!
 
